@@ -3,19 +3,24 @@ body {
 }
 
 h1 {
-
+  text-align: center;
 }
 
 img {
-
+  width: 30%;
+  max-width: 300px;
+  min-width: 300px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
 }
 
 
 p {
-
+  text-align: center;
 }
 
 
 a {
-
+  text-align: center;
 }
