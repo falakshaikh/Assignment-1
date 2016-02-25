@@ -1,6 +1,21 @@
+html,
 body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  margin: 0;
+  overflow: auto;
+}
+
+body {
+  background-image: url("images/oreo_wonderfilled.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 
 }
+
 
 h1 {
   text-align: center;
@@ -11,7 +26,7 @@ img {
   max-width: 300px;
   min-width: 300px;
   height: auto;
-  margin: 0 auto;
+  margin: auto;
   display: block;
 }
 
@@ -20,7 +35,18 @@ p {
   text-align: center;
 }
 
-
 a {
-  text-align: center;
+  margin: 2em auto 4em auto;
+  display: table;
+  color: white;
+  font-family: "Arial", sans-serif;
+  text-transform: uppercase;
+  text-decoration:none;
+  padding: 0.5em;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.overlay{
+
 }
