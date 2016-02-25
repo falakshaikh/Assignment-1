@@ -32,7 +32,11 @@ img {
 
 
 p {
-  text-align: center;
+  width: 15%;
+  position: fixed;
+  left: 50%;
+  margin-left: -7.5%;
+  text-align:center;
 }
 
 a {
@@ -48,5 +52,6 @@ a {
 }
 
 .overlay{
-
+  background-color: white;
+  padding-bottom: 250px;
 }
