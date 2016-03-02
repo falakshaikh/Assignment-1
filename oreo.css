@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
 body {
 
 }
@@ -23,6 +25,7 @@ p {
   border: 10px;
   margin-left: 200px;
   margin-right: 200px;
+  font-family: "Slabo"
 }
 
 
