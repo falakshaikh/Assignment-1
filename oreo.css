@@ -33,6 +33,7 @@ img {
   height: auto;
   margin: auto;
   display: block;
+  margin-top: 20px;
 }
 
 
@@ -42,6 +43,7 @@ p {
   margin-left: 200px;
   margin-right: 200px;
   font-family: "Slabo", sans-serif;
+  font-size: 20px;
 }
 
 a {
